@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikKar&label=Views&color=blue&style=plastic" alt="souvik" /> </p>
 
-<a href="souvik-portfolio-mauve.vercel.app">
+<a href="https://souvik-portfolio-mauve.vercel.app/">
   <kbd>
   <img align="centre" alt="souvik Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" />
 </a>
@@ -35,6 +35,6 @@
 <br/>
 
 - 🏢 I am a Software Engineer 
-- 🙋‍ More about me: Visit my [website](souvik-portfolio-mauve.vercel.app)
+- 🙋‍ More about me: Visit my [website](https://souvik-portfolio-mauve.vercel.app/)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/%E2%98%AF%EF%B8%8Fsouvik-kar%E2%9A%9B%EF%B8%8F%E2%9C%85-094281213/)
 - 👯 Pronouns: He/Him
