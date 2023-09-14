@@ -35,8 +35,6 @@
 <br/>
 
 - 🏢 I am a Software Engineer 
-- 🏫 2022 B.Tech. graduate from NIT Karnataka
-- 💻 Former SDE Intern at Qualcomm, India
 - 🙋‍ More about me: Visit my [website](souvik-portfolio-mauve.vercel.app)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/%E2%98%AF%EF%B8%8Fsouvik-kar%E2%9A%9B%EF%B8%8F%E2%9C%85-094281213/)
 - 👯 Pronouns: He/Him
