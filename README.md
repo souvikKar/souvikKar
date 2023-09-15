@@ -16,7 +16,7 @@
   <img align="centre" alt="souvik's Blog" width="22px" src="https://w7.pngwing.com/pngs/204/418/png-transparent-social-media-blogger-computer-icons-logo-blog-text-rectangle-orange-thumbnail.png" />
 </a>
    
-<a href="https://www.linkedin.com/in/%E2%98%AF%EF%B8%8Fsouvik-kar%E2%9A%9B%EF%B8%8F%E2%9C%85-094281213/">
+<a href="https://www.linkedin.com/in/souvik-kar-%E2%9C%85-094281213/">
   <kbd>
   <img align="centre" alt="souvik's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
@@ -36,5 +36,5 @@
 
 - 🏢 I am a Software Engineer 
 - 🙋‍ More about me: Visit my [website](https://souvik-portfolio-mauve.vercel.app/)
-- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/%E2%98%AF%EF%B8%8Fsouvik-kar%E2%9A%9B%EF%B8%8F%E2%9C%85-094281213/)
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/souvik-kar-%E2%9C%85-094281213/)
 - 👯 Pronouns: He/Him
